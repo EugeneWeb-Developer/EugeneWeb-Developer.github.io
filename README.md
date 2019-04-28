@@ -1,2 +1,2 @@
-# EugeneWeb-Developer.github.io
+# Eugene's project
 Мой первый опубликованный сайт
